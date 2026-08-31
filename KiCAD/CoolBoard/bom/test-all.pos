@@ -1,0 +1,16 @@
+### Footprint positions - created on 2026-08-26T20:16:52 ###
+### Printed by KiCad version 10.0.5
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                                             PosX       PosY       Rot  Side
+A1        RaspberryPi_Pico_W    RaspberryPi_Pico_Common_THT                                     117.5000   -80.5000    0.0000  top
+J1        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal   105.3275   -60.4550  -90.0000  top
+J2        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal   169.0000   -76.5000  -90.0000  top
+J3        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal   105.5000   -75.5000  -90.0000  top
+J4        Conn_01x06_Pin        PinHeader_1x06_P2.54mm_Vertical                                 102.5000   -97.4600    0.0000  top
+Q1        Q_NMOS_GDS            TO-220-3_Vertical                                               147.5000   -99.4600  -90.0000  top
+R1        100R                  R_0805_2012Metric                                               148.2950   -85.8450    0.0000  top
+R2        10k                   R_0805_2012Metric                                               148.2950   -88.7950    0.0000  top
+R3        4.7k                  R_0805_2012Metric                                               148.2950   -91.7450    0.0000  top
+R4        4.7k                  R_0805_2012Metric                                               148.2950   -94.6950    0.0000  top
+## End

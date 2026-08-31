@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC Part #
+"RaspberryPi_Pico_W","A1","RaspberryPi_Pico_Common_THT",""
+"Screw_Terminal_01x02","J1, J2, J3","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",""
+"Conn_01x06_Pin","J4","PinHeader_1x06_P2.54mm_Vertical",""
+"Q_NMOS_GDS","Q1","TO-220-3_Vertical",""
+"100R","R1","R_0805_2012Metric",""
+"10k","R2","R_0805_2012Metric",""
+"4.7k","R3, R4","R_0805_2012Metric",""
